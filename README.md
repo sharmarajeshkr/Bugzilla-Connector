@@ -1,0 +1,6 @@
+# Bugzilla-Connector
+
+Find Bug and defect 
+ 
+https://bugzilla.mozilla.org/buglist.cgi?classification=Graveyard&product=AUS%20Graveyard&query_format=advanced&resolution=---&bug_type=task&query_based_on=&columnlist=bug_type%2Cshort_desc%2Cproduct%2Ccomponent%2Cassigned_to%2Cbug_status%2Cresolution%2Cchangeddate%2Cassignee_last_login%2Cbug_id%2Cclassification%2Ccf_last_resolved%2Ccf_cab_review%2Ccf_due_date%2Clast_visit_ts%2Cpriority%2Ccf_rank%2Ccf_root_cause%2Cbug_severity%2Cbug_file_loc%2Cversion%2Cassigned_to_realname%2Ccf_backlog%2Calias%2Cflagtypes.name%2Ckeywords%2Clongdescs.count%2Copendate%2Ctarget_milestone%2Cteam_name%2Cshort_short_desc 
+https://bugzilla.mozilla.org/buglist.cgi?classification=Graveyard&product=AUS%20Graveyard&query_format=advanced&resolution=---&bug_type=defect&columnlist=bug_type%2Cshort_desc%2Cproduct%2Ccomponent%2Cassigned_to%2Cbug_status%2Cresolution%2Cchangeddate%2Cassignee_last_login%2Cbug_id%2Cclassification%2Ccf_last_resolved%2Ccf_cab_review%2Ccf_due_date%2Clast_visit_ts%2Cpriority%2Ccf_rank%2Ccf_root_cause%2Cbug_severity%2Cbug_file_loc%2Cversion%2Cassigned_to_realname%2Ccf_backlog%2Calias%2Cflagtypes.name%2Ckeywords%2Clongdescs.count%2Copendate%2Ctarget_milestone%2Cteam_name%2Cshort_short_desc
